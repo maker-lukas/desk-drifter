@@ -13,4 +13,4 @@
 
 Video of it drifting
 
-[![Watch the drift](https://cdn.hackclub.com/019eb138-dc80-77ee-b150-7219a29b50cf/VID_20260609_215028.mp4)](https://cdn.hackclub.com/019eb138-dc80-77ee-b150-7219a29b50cf/VID_20260609_215028.mp4)
+[![Watch the drift](images/drift-thumbnail.png)](https://cdn.hackclub.com/019eb138-dc80-77ee-b150-7219a29b50cf/VID_20260609_215028.mp4)
