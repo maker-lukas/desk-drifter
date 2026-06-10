@@ -12,3 +12,5 @@
 | ![IMG_20260610_114617](https://github.com/user-attachments/assets/73638b51-614b-4ea3-8fcb-e6c93e2d059b) | ![IMG_20260610_114612](https://github.com/user-attachments/assets/f1d5770e-bfa0-4e74-87fd-911f71a34466) |
 
 Video of it drifting
+
+<video controls src="VID_20260609_215028.mp4" title="Title"></video>
