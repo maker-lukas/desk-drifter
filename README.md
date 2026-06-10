@@ -13,6 +13,6 @@
 
 ## Video
 
-<a href="https://cdn.hackclub.com/019eb138-dc80-77ee-b150-7219a29b50cf/VID_20260609_215028.mp4">
+<a target="_blank" href="https://cdn.hackclub.com/019eb138-dc80-77ee-b150-7219a29b50cf/VID_20260609_215028.mp4">
   <img src="images/drift-thumbnail.png" width="300" alt="Watch the drift">
 </a>
