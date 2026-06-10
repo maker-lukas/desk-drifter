@@ -1,7 +1,32 @@
 # Desk Drifter
-> A small 3D printed drift car
+
+> A small 3D printed drift car Drive it with your finger like a drift car.
 
 ---
+
+## BOM
+
+| Part | Qty | Notes |
+|------|:---:|-------|
+| 3D printed body | 1 | Prints in one piece |
+| 608 bearing | 1 | Goes flat on top front, use it as a finger pivot to steer |
+| Felt (or PTFE feet) | 1 round pad, 1 square | 20mm x 2.7mm round in front, 22x22mm square in back |
+| M10 hex nut | 1 | Pause the print halfway and drop it in for back weight |
+
+## Print Settings
+
+- 15-20% infill, PLA is fine
+- Supports on (custom supports only or it will fill the space for the hex nut)
+
+## Assembly
+
+1. Print it. Pause at the layer where the rear cavity is open, drop the hex nut in, continue print
+2. Press the 608 bearing into the hole on top front. It goes upright so you can put your finger on it.
+3. Stick the round felt pad on the bottom front and the square felt pad on the bottom back.
+
+## How it Works
+
+Put your finger on the bearing and push. The bearing lets you steer, the felt lets it slide, and the nut in the back makes the rear swing out.
 
 ## Images
 
