@@ -13,4 +13,4 @@
 
 Video of it drifting
 
-<video controls src="VID_20260609_215028.mp4" title="Title"></video>
+![video](https://cdn.hackclub.com/019eb138-dc80-77ee-b150-7219a29b50cf/VID_20260609_215028.mp4)
